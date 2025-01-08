@@ -1,0 +1,248 @@
+body{
+ margin: 0px;
+   overflow-x: hidden;
+   background-color: rgb(237, 232, 224);
+   --bkg: #5eb3fd;
+	--white: #e7e6e6;
+
+	background-color: var(--white);
+	background-image: url("https://www.transparenttextures.com/patterns/concrete-wall.png");
+
+}
+
+.haut{
+    background-color:black;
+    margin: 0px;  
+  
+}
+
+h1 {
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    position: relative;
+    top:-300px ;
+    left: -70px;
+}
+
+.haut #tel{
+    position: relative;
+    color: white;
+    left: -98px;
+    text-decoration: none;
+    top: -85px;
+}
+
+.haut #mail{
+    position: relative;
+    top: -85px;
+    left: -80px;
+    color: white;
+    text-decoration: none;
+}
+
+.fa-phone{
+    position: relative;
+    top: -80px;
+    margin: 5px;
+   left: -100px;
+    color: white;
+}
+
+.fa-envelope{
+    position: relative;
+    top: -82px;
+    left: -80px;
+    margin: 5px;
+    color: white;
+}
+.fa-user-plus{
+    position: relative;
+    right: -1300px;
+    top: -80px;
+    color: white;
+}
+.haut #account{
+    position: relative;
+    left: 1418px;
+    top: -80px;
+    color: white;
+    text-decoration: none;
+}
+
+img{
+    height: 370px;
+    position: relative;
+    right:-1000px;
+    top: 20px;
+    width: 500px;
+
+}
+p{
+    color: black;
+    text-shadow: 1px 1px 2px white;
+    font-weight: bold;
+    font-size: 40px;
+    position: relative;
+    left: 500px;
+    top: -300px;
+}
+nav{
+    position: sticky !important;
+    top: 0px !important;
+    
+}
+.shop-now {
+    position: relative;
+    top: -200px;
+    left: -200px;
+   
+}
+
+.collection {
+    position: relative;
+    top: -250px;
+    left: 120px;
+    
+   
+}
+
+.custom-btn{
+    padding: 10px 70px;
+}
+.col{
+    padding: 10px 70px;
+}
+.fa-earth-americas{
+    position: relative;
+    top: -550px;
+    color: black;
+}
+.livr{
+    position: relative;
+    top: -510px;
+    left: 30px;
+    font-size: 15px;
+    color: black;
+}
+
+.fa-money-check{
+    position: relative;
+    top: -550px;
+    right: -2px;
+    font-size: 15px;
+    color: black;
+}
+
+.fa-truck-fast{
+    position: relative;
+    top: -550px;
+    right: -2px;
+    font-size: 15px;
+    color: black;
+}
+.margin{
+    margin: 40px;
+}
+
+.parag{
+    position: relative;
+    left: 580px;
+    top: -1050px;
+    max-width: 300px;
+    margin: 0px auto;
+    line-height: 1.6;
+    word-wrap: break-word;
+    font-size: 40px !important;
+    color: black;
+
+}
+
+.photos{
+    position: relative;
+    left: -950px;
+    top: -500px;  
+    
+
+}
+
+.photos :hover{
+    opacity: 0.7;
+    transform: scale(1.1);
+  
+    transition: 0.5s;
+    border-radius: 70px;
+    
+   
+}
+ 
+/*span{
+    position: relative;
+    left: 650px;
+    top: -50px;
+    color: white;
+    font-weight: bold;
+
+}*/
+button{
+    position: relative;
+    left: 570px;
+    top: 90px;
+}
+
+#men{
+position: relative;
+left: 1500px;
+top: -320px;
+
+}
+
+#access{
+    position: relative;
+left: 1400px;
+top: -320px;
+
+}
+
+#men1{
+    position: relative;
+    top: -400px;
+    left: 1150px;
+    color: white;
+    font-weight: bold;
+    
+}
+#shopnow1{
+    position: relative;
+    top: -250px;
+    left: 1100px;
+    
+
+}
+#access1{
+    position: relative;
+   left: 1040px;
+    top: -400px;
+    color: white;
+    font-weight: bold;
+   
+
+}
+
+#shopnow2{
+    position: relative;
+    left: 950px;
+    top: -250px;
+    
+
+}
+#women1{
+    position: relative;
+  left: 650px;
+  color: white;
+  font-weight: bold;
+  top: -57px;
+  
+}

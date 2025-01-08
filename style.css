@@ -147,22 +147,11 @@ nav{
     margin: 40px;
 }
 
-.parag{
-    position: relative;
-    left: 580px;
-    top: -1050px;
-    max-width: 300px;
-    margin: 0px auto;
-    line-height: 1.6;
-    word-wrap: break-word;
-    font-size: 40px !important;
-    color: black;
 
-}
 
 .photos{
     position: relative;
-    left: -950px;
+    left: -1000px;
     top: -500px;  
     
 

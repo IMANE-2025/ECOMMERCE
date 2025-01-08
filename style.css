@@ -152,13 +152,16 @@ nav{
 .photos{
     position: relative;
     left: -1000px;
-    top: -500px;  
+    top: -500px; 
+    display: flex; 
+    justify-content: space-between;
+    gap: 20px;
     
 
 }
 
 .photos :hover{
-    opacity: 0.7;
+    opacity: 0.3;
     transform: scale(1.1);
   
     transition: 0.5s;
